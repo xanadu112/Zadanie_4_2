@@ -1,0 +1,1 @@
+# funkcja, która sprawdza czy dany wyraz jest palindromem
